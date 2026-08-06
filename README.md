@@ -1,4 +1,4 @@
-# Hi — I'm Pedro Acácio
+# Hi — I'm Pedro Acácio 👋
 
 Computer Science student at the University of Fortaleza (UNIFOR) and Full-Stack Development student at Digital College. Freelance Web Developer focused on building modern web applications and digital solutions.
 
