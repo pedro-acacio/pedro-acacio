@@ -21,7 +21,7 @@ Experienced with AI-assisted development using **Claude Code, ChatGPT, and Gemin
 
 ## Experience
 
-**Freelance Web Developer — 2024–Present**
+**Freelance Web Developer**
 
 Building and deploying responsive websites and web applications for real-world clients, working across design, development, AI-assisted workflows, and deployment.
 
