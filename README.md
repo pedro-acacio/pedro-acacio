@@ -17,7 +17,7 @@ React, Vite, Tailwind CSS, JavaScript, Java, HTML5, CSS3, Git, GitHub, Vercel, P
 
 ## AI-Assisted Development
 
-Experienced with AI-assisted development using **Claude, ChatGPT, and Gemini** for coding, research, problem-solving, debugging, and workflow optimization.
+Experienced with AI-assisted development using **Claude Code, ChatGPT, and Gemini** for coding, research, problem-solving, debugging, and workflow optimization.
 
 ## Experience
 
