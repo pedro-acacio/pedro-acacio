@@ -13,7 +13,7 @@ Computer Science student at the University of Fortaleza (UNIFOR) and Full-Stack 
 
 ## Technologies
 
-React, Vite, Tailwind CSS, JavaScript, Java, HTML5, CSS3, Git, GitHub, Vercel, PWA
+React, Vite, Tailwind CSS, JavaScript, Java, HTML5, CSS3, Git, GitHub, Vercel, PWA.
 
 ## AI-Assisted Development
 
