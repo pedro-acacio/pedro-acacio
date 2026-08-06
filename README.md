@@ -17,20 +17,20 @@ React, Vite, Tailwind CSS, JavaScript, Java, HTML5, CSS3, Git, GitHub, Vercel, P
 
 ## AI-Assisted Development
 
-Experience using AI tools such as Claude, ChatGPT, and Gemini to support software development, research, problem-solving, code generation, debugging, and workflow optimization.
+Experienced with AI-assisted development using **Claude, ChatGPT, and Gemini** for coding, research, problem-solving, debugging, and workflow optimization.
 
 ## Experience
 
-Freelance Web Developer — 2024–Present
+**Freelance Web Developer — 2024–Present**
 
 Building and deploying responsive websites and web applications for real-world clients, working across design, development, AI-assisted workflows, and deployment.
 
 ## Education
 
-University of Fortaleza (UNIFOR) — Computer Science  
+**University of Fortaleza (UNIFOR) — Computer Science**  
 2025–2028
 
-Digital College — Full-Stack Development  
+**Digital College — Full-Stack Development**  
 In Progress
 
 ## Contact
