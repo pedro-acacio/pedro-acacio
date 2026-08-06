@@ -1,4 +1,4 @@
-# Hi — I'm Pedro Acácio 👋
+# Hi — I'm Pedro Acácio
 
 Computer Science student at the University of Fortaleza (UNIFOR) and Full-Stack Development student at Digital College. Freelance Web Developer focused on building modern web applications and digital solutions.
 
@@ -6,6 +6,7 @@ Computer Science student at the University of Fortaleza (UNIFOR) and Full-Stack 
 
 - Full-Stack Development
 - Software Engineering
+- AI-Assisted Development
 - Web Applications
 - Front-End Development
 - Automation
@@ -14,11 +15,15 @@ Computer Science student at the University of Fortaleza (UNIFOR) and Full-Stack 
 
 React, Vite, Tailwind CSS, JavaScript, Java, HTML5, CSS3, Git, GitHub, Vercel, PWA
 
+## AI-Assisted Development
+
+Experience using AI tools such as Claude, ChatGPT, and Gemini to support software development, research, problem-solving, code generation, debugging, and workflow optimization.
+
 ## Experience
 
-Freelance Web Developer
+Freelance Web Developer — 2024–Present
 
-Building and deploying responsive websites and web applications for real-world clients, working across design, development, and deployment.
+Building and deploying responsive websites and web applications for real-world clients, working across design, development, AI-assisted workflows, and deployment.
 
 ## Education
 
